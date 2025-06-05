@@ -1,0 +1,1 @@
+export { default } from '@brushcolor/eslint-config/eslint';
